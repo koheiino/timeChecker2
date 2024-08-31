@@ -1,0 +1,12 @@
+{
+  "name": "time-range-checker",
+  "version": "1.0.0",
+  "description": "時間範囲チェッカー",
+  "main": "timeChecker.js",
+  "type": "module",
+  "scripts": {
+    "test": "node timeCheckerTest.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
